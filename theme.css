@@ -2,7 +2,7 @@
 :root {
   --main-color: #090909;
   --title-bar: #111;
-  --bar-color: #181818;
+  --bar-color: #111111;
   --bar-border-color: #282828;
   --bar-size: 90px;
   --accent-rgb: 29,185,84;
@@ -56,7 +56,7 @@
   --scrollbar-thumb: rgba(255,255,255,0.3);
   --scrollbar-thumb-hover: rgba(255,255,255,0.45);
   --scrollbar-thumb-active: rgba(255,255,255,0.55);
-  --window-button: #181818;
+  --window-button: #111111;
   --window-button-hover: #535353;
   --window-button-close: #cd1a2b;
   --font-primary: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
