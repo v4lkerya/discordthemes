@@ -12,7 +12,7 @@
   --alt-accent-text-color: #fff;
   --alert-color: #f04747;
   --alert-hover: #ff4c4c;
-  --chat-color: #121212;
+  --chat-color: #111111;
   --server-list: var(--chat-color);
   --sidebar-color: #111;
   --sidebar-panel: var(--main-color);
@@ -40,7 +40,7 @@
   --list-item-default: #212121;
   --list-item-hover: #333;
   --list-item-select: #5a5a5a;
-  --sticky-header: #181818;
+  --sticky-header: #111111;
   --sticky-header-border: #303030;
   --slider-color: #b3b3b3;
   --slider-background: var(--menu-border-color);
