@@ -8,7 +8,7 @@
   --accent-rgb: 29,185,84;
   --accent-hover: 30,215,96;
   --accent-text-color: #fff;
-  --alt-accent: #5680d4;
+  --alt-accent: #1DB954;
   --alt-accent-text-color: #fff;
   --alert-color: #f04747;
   --alert-hover: #ff4c4c;
@@ -380,7 +380,7 @@ body,
 }
 
 /* SERVER LIST -> FOLDERS */
-.folderIconWrapper-1_bOZe[style*="rgba(88, 101, 242, 0.4)"] {
+.folderIconWrapper-1_bOZe[style*="rgba(88, 101, 242, 0.1)"] {
   background-color: rgba(var(--accent-rgb), 0.4) !important;
 }
 
@@ -678,8 +678,8 @@ body,
   box-shadow: var(--default-shadow);
 }
 .userPopout-2j1gM4 .avatar-2Vndt_ {
-  background-color: #202020;
-  border-color: #202020;
+  background-color: #0E0E0E;
+  border-color: #0E0E0E;
 }
 .userPopout-2j1gM4 .headerTop-3GPUSF {
   padding: 54px 16px 16px;
@@ -826,8 +826,8 @@ body,
   background-color: rgba(0, 0, 0, 0.2);
 }
 .root-8LYsGj .topSection-13QKHs .avatar-3QF_VA {
-  background-color: #202020;
-  border-color: #202020;
+  background-color: #0E0E0E;
+  border-color: #0E0E0E;
 }
 .root-8LYsGj .topSection-13QKHs .nameTagNoCustomStatus-3ocqoK {
   margin-bottom: 8px;
@@ -2375,6 +2375,20 @@ body,
 
 .memberItem-2FOuJI {
   padding: 0;
+}
+
+/*Home Button*/
+
+.homeIcon-r0w4ny path {fill: transparent}
+
+.homeIcon-r0w4ny {
+
+background: url('https://v4lkerya.github.io/discordthemes/discord.png') center/cover no-repeat;
+
+min-width: 60px;
+
+min-height: 60px;
+
 }
 
 /*
